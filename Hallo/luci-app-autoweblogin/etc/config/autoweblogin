@@ -1,0 +1,6 @@
+
+config BBBZZB 'config'
+	option user_account ''
+	option user_password ''
+	option enabled '0'
+	option time '30'
